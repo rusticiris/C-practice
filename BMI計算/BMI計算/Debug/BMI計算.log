@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+MyForm.cpp(2): error C2871: 'bmiWin': この名前を指定された名前空間は存在しません。
+MyForm.cpp(3): error C2337: 'STAThreadAttribute': 属性が見つかりません。
+MyForm.cpp(6): error C2653: 'Application': 識別子がクラス名でも名前空間名でもありません。
+MyForm.cpp(6): error C3861: 'EnableVisualStyles': 識別子が見つかりませんでした
+MyForm.cpp(7): error C2653: 'Application': 識別子がクラス名でも名前空間名でもありません。
+MyForm.cpp(7): error C3861: 'SetCompatibleTextRenderingDefault': 識別子が見つかりませんでした
+MyForm.cpp(8): error C2653: 'Application': 識別子がクラス名でも名前空間名でもありません。
+MyForm.cpp(8): error C2061: 構文エラー: 識別子 'MyForm'
+MyForm.cpp(8): error C3861: 'Run': 識別子が見つかりませんでした
